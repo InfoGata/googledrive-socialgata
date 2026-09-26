@@ -1,0 +1,10 @@
+{
+  "id": "749a7108-85be-4716-bdce-2f6f50ab2290",
+  "name": "Google Drive Sync for SocialGata",
+  "version": "1.0.0",
+  "description": "Sync your SocialGata favorites to Google Drive",
+  "script": "dist/index.js",
+  "options": "dist/options.html",
+  "updateUrl": "https://cdn.jsdelivr.net/gh/InfoGata/googledrive-socialgata@latest/manifest.json",
+  "homepage": "https://github.com/InfoGata/googledrive-socialgata"
+}
